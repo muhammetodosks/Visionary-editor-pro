@@ -1,28 +1,169 @@
-BSD 3-Clause License
+VISIONARY PRO ULTRA v1.0
+ÖZEL LİSANS ANLAŞMASI (Proprietary License Agreement)
 
-Copyright (c) 2025, muhammetodosks
+© 2024-2025 Visionary Development Team
+Tüm Hakları Saklıdır.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+================================================================================
+1. TANIM
+================================================================================
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+"Yazılım": Bu paket içinde yer alan tüm kaynak kodu, binary dosyalar,
+           dokümantasyon ve diğer materyallerdir.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+"Lisans Sahibi": Yazılımı kullanmaya yetkili kişi veya kuruluştur.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+"Telif Hakkı Sahibi": Visionary Development Team ve destekçileridir.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+================================================================================
+2. LİSANS VERİLEN HAKLAR
+================================================================================
+
+Telif Hakkı Sahibi tarafından, aşağıdaki koşullar altında, 
+Lisans Sahibine verilen haklar:
+
+2.1 KİŞİSEL KULLANIM
+    • Bireysel, ticari olmayan amaçlarla yazılımı kullanabilirsiniz
+    • Lokal bilgisayarınızda sınırsız sayıda kopya yapabilirsiniz
+    • Eğitim ve araştırma amaçlı değişiklik yapabilirsiniz
+
+2.2 GELİŞTİRME
+    • Lokal ortamda geliştirme ve test yapabilirsiniz
+    • Kendi ihtiyaçlarınıza göre özelleştirebilirsiniz
+    • Dahili araçlar ve komponent olarak kullanabilirsiniz
+
+2.3 DAĞITIM (Sınırlı)
+    • Sadece orijinal, değiştirilmemiş yazılımı dağıtabilirsiniz
+    • Bu lisans dosyasını açık biçimde dahil etmelisiniz
+    • Hiçbir ücret talep etmemeli veya kar maksimizasyonu yapmayınız
+
+================================================================================
+3. LİSANS VERİLMEYEN (YASAK) HAREKETLER
+================================================================================
+
+Aşağıdaki aktiviteler kesinlikle yasaktır:
+
+3.1 YASAKLI TICARI KULLANIM
+    ✗ Yazılımı veya türevini satma
+    ✗ Abonelik/lisans bedeli talep etme
+    ✗ SaaS (Software-as-a-Service) olarak sunma
+    ✗ Ücretli destek/eğitim sağlama
+
+3.2 YASAKLI DEĞİŞTİRME
+    ✗ Yazılımı değiştirip başka isimle dağıtma
+    ✗ Yazılımın telif hakkını değiştirme
+    ✗ Yazılımı parçalayıp diğer lisansa altında sunma
+    ✗ Kaynak kodu açık hale getirme (fork yapma)
+
+3.3 YASAKLI DAĞITIM
+    ✗ Yazılımı değiştirilmiş halde dağıtma
+    ✗ Yazılımı telif hakkı notasyonu olmadan dağıtma
+    ✗ Yazılımı üçüncü taraf uygulamalarına gömme
+    ✗ Yazılımı reverse engineering yapıp sunma
+
+3.4 YASAKLI İMKA SAĞLAMA
+    ✗ Başka kişilerin telif hakkı ihlali yapmasına yardım
+    ✗ Yazılımı, yasak olan çalışmalar için sağlama
+    ✗ Yazılımı silah, zulüm veya zararlı amaçlar için kullanma
+
+================================================================================
+4. TICARI KULLANIM
+================================================================================
+
+İşletme, kurum veya ticari amaçlarla yazılımı kullanmak istiyorsanız:
+
+• Lisans anlaşması için iletişime geçiniz
+• Özel ticari lisans alınabilir
+• Kurumsal destek paketleri mevcuttur
+• OEM ve beyaz etiket seçenekleri sunulabilir
+
+Ticari kullanım için: [CONTACT EMAIL/INFO]
+
+================================================================================
+5. GÜNCELLEMELER VE BAKIŞ
+================================================================================
+
+5.1 Telif Hakkı Sahibi:
+    • Yazılımı istediği zaman güncelleyebilir
+    • Yeni versiyonları yayınlayabilir
+    • Lisans şartlarını değiştirebilir (ileride)
+
+5.2 Lisans Sahibi:
+    • Güncelleme almak zorunlu değildir
+    • Eski versiyonları kullanmaya devam edebilir
+    • Yeni şartları kabul etmezse kullanmayabilir
+
+================================================================================
+6. GARANTİ VE SORUMLULUK RED EDİLMESİ
+================================================================================
+
+6.1 GARANTISIZ DAĞITIM
+    Yazılım "OLDUĞU GİBİ" ("AS IS") sağlanır.
+
+6.2 HIÇBIR AÇIK GARANTISI YOK
+    Telif Hakkı Sahibi yazılım hakkında:
+    • Herhangi bir garanti vermez
+    • Satılabilirlik garantisi vermez
+    • Belirli amaçlar için uygunluk garantisi vermez
+
+6.3 SORUMLULUK SINIRI
+    Telif Hakkı Sahibi şu durumlardan sorumlu DEĞİLDİR:
+    • Veri kaybı
+    • Kar kaybı
+    • Dolaylı hasarlar
+    • Yazılım kullanımından kaynaklanan zararlar
+
+6.4 TAZMINAT YÜKÜMLÜLÜĞü
+    Lisans Sahibi yazılımı kullanarak tüm riskleri kabul eder
+    ve Telif Hakkı Sahibini tüm taleplerden sorumlu tutmaz.
+
+================================================================================
+7. UYUM VE YAPTIRIMLARI
+================================================================================
+
+7.1 LİSANS İHLALİ
+    Lisans koşullarını ihlal etmek hukuk dışıdır.
+
+7.2 İHLAL DURUMUNDA
+    • Yazılım kullanma hakkı derhal sona erer
+    • Yasal işlemler başlatılabilir
+    • Mali ve hukuki tazminatlar talep edilebilir
+
+7.3 İHLAL EDİLDİĞİNİ DÜŞÜNÜYORSANIZ
+    Lütfen rapor ediniz: [REPORT EMAIL]
+
+================================================================================
+8. GENEL HÜKÜMLER
+================================================================================
+
+8.1 Bu lisans tam anlaşmayı temsil eder.
+8.2 Lisans şartlarından herhangi biri geçersiz olsa bile, diğerleri geçerli kalır.
+8.3 Telif Hakkı Sahibi herhangi bir şarttan feragat etmezse, bu gelecekte
+    feragat anlamına gelmez.
+8.4 Bu lisans Uluslararası Harita Yasaları altında yönetilir.
+
+================================================================================
+9. TEMAS BİLGİLERİ
+================================================================================
+
+Sorularınız veya ihtiyaçlarınız için:
+
+Email:    contact@visionarygroup.com
+Web:      www.visionarygroup.com
+Support:  support@visionarygroup.com
+
+================================================================================
+10. KABULÜ
+================================================================================
+
+Bu yazılımı kullanarak, siz bu lisans şartlarının tamamını
+kabul etmiş sayılırsınız.
+
+Kabul etmiyorsanız, yazılımı kullanmayınız.
+
+================================================================================
+Son Güncellenme: 2024-01-01
+Lisans Versiyonu: 1.0.0
+
+© 2024-2025 Visionary Development Team. Tüm Hakları Saklıdır.
+================================================================================
